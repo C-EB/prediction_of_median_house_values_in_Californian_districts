@@ -33,8 +33,7 @@ The dataset used for this project is the California Housing dataset. It contains
 - **Scikit-learn**: For building and evaluating machine learning models.
 - **Matplotlib and Seaborn**: For data visualization.
 
-## Code and Explanation
-
+## Code
 ### Data Loading and Preprocessing
 - **Loading Data**: The dataset is loaded using Pandas, and initial exploration is performed to understand the structure and missing values.
 - **Data Cleaning**: Missing values are handled by filling or dropping them. Features are scaled and normalized to prepare them for modeling.
